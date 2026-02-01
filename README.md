@@ -32,8 +32,6 @@ O objetivo é demonstrar, de forma prática, como esse modelo computacional func
 
 ![Fita da máquina de Turing](images/fita.png)
 
-## Funcionamento do algoritmo
-
 Arquivo ```src/input ```:
 
     Este arquivo é onde fica o array com o nome input que é destinado para armazenar as operações que deseja realizar
